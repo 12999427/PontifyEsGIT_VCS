@@ -1,2 +1,2 @@
 # PontifyEsGIT_VCS
-Eserizio sul funzo
+Esercizio sul funzionamento di GIT e Version Control System
